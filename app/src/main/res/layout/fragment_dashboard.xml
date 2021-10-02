@@ -7,7 +7,7 @@
 
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerDashboard"
+        android:id="releventChanges"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="5dp"
@@ -16,13 +16,13 @@
 
 
     <RelativeLayout
-        android:id="@+id/rlProgress"
+        android:id="ImplementationOfIdentification"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#ffffff">
 
         <ProgressBar
-            android:id="@+id/progressBar"
+            android:id="LoremIpsumIDIIIT Bhosadpal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
